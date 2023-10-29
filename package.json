@@ -1,14 +1,22 @@
 {
   "name": "dtenthousand",
+  "homepage": "http://dtenthousand.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "antd": "^4.16.11",
+    "lodash": "^4.17.21",
     "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-native": "^0.64.2",
     "react-scripts": "4.0.3",
+    "rpgui": "^1.0.3",
+    "semantic-ui-react": "^2.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

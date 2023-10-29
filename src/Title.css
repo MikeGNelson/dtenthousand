@@ -1,0 +1,31 @@
+@import "~rpgui/rpgui.css";
+
+.Title {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
+    
+    background-color: rgb(46, 2, 36);
+    color: rgba(255, 255, 255, 0.75);
+  }
+
+  .Title-h1{
+    color: rgb(0, 128, 6);
+  }
+
+  .Title-Subtitle {
+    color: rgba(255, 255, 255, 0.75);
+  }
+
+  .rolledValue{
+    background-color: rgb(0, 128, 6);
+    color:white;
+    padding: 10em;
+  }
+
+  .rolledArea{
+    background-color: seagreen;
+  }
